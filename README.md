@@ -37,4 +37,4 @@ Resource Intensive: Working with large datasets can be resource-intensive, and u
 
 ## Conclusion
 
-We wanted to offer "Share Our Strength" both options and left it to them to make a decision on what was best for their use case. 
+We wanted to offer "Share Our Strength" both options and left it to them to make a decision on what was best for their use case. An extensive PDF report is available upon request!
